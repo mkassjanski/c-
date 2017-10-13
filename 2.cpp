@@ -1,5 +1,5 @@
 #include <iostream> // potrzebne blibliteki
-using namespace std; // ptrzestrzeń nazw std (klasyczna)
+using namespace std; // przestrzeń nazw std (klasyczna)
 int main() // główna funkcja programu
 {
   cout << "Mój pierwszy program" << endl; 
